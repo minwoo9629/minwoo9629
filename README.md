@@ -1,4 +1,3 @@
-<center><img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Welcome!!!%20&fontSize=90" /></center>
 <h1 align="center">Hi there 👋</h1>
 <h4 align="center"> MY name is Lee min woo</h2>
 <h4 align="center"> I want to be a Django developer.</h2>
