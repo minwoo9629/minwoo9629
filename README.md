@@ -1,7 +1,6 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=&fontSize=90"/></p>
 <h1 align="center"> :blush: Welcome :blush:</h1>
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=footer&text=&fontSize=90"/></p>
-### Hi there 👋
 <h4 align="center"> MY name is Lee min woo</h2>
 <h4 align="center"> I want to be a Django developer.</h2>
 <h4 align="center">I would like to establish a web programming education organization.</h2>
