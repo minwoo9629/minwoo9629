@@ -4,6 +4,7 @@
 <h4 align="center"> MY name is Lee min woo</h2>
 <h4 align="center"> I want to be a Django developer.</h2>
 <h4 align="center">I would like to establish a web programming education organization.</h2>
+<h3 align="center">My notion https://www.notion.so/HOME-6166aac0e0e24fe5b84c39a0e6f46ed1</h3>
 <h1 align="center">:zap:Tech Stack:zap:</h1>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
