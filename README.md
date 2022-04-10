@@ -4,7 +4,7 @@
 ![Minwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=minwoo9629&show_icons=true&theme=tokyonight)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minwoo9629)](https://solved.ac/minwoo9629)
-</div>
+
 <h1 align="center">:zap:Tech Stack:zap:</h1>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
